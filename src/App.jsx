@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Header from './components/header';
+import Header from './components/header/index';
 import Formulario from './components/form/formulario';
 import TabelaIMC from './components/TabelaIMC/index';
 import './Global.css';
